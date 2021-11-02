@@ -21,6 +21,6 @@ If Python version returned above is 2.X
 By default, this will run the contents of the directory on a local web server, on port 8000. You can go to this server by going to the URL `localhost:8000` in your web browser. Here you'll see the contents of the directory listed — click the HTML file you want to run.
 
 ## Whats next?
-Feel free to write all the HTML you want in the `src/index.html` and all the CSS you can think of in `src/styles.css`
+Write all the HTML,CSS or JS you want. The source files for each can be found in `src`.
 
 After updating the source code refresh your browser to see the changes
